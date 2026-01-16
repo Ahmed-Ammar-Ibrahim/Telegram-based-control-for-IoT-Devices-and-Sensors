@@ -1,4 +1,4 @@
-<img width="504" height="293" alt="image" src="https://github.com/user-attachments/assets/4532a393-a1bb-4f57-8f6c-b871312713f8" /># Telegram-based control for IoT Devices and Sensors
+# Telegram-based control for IoT Devices and Sensors
 
 The NodeMCU V1.0 is an ESP8266-based development board used as a microcontroller. It features built-in Wi-Fi, GPIO pins, and USB connectivity, making it perfect for prototyping connected devices.
 
